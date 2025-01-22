@@ -5,6 +5,7 @@ public class Hello {
         UselessThing<String> it = s -> s;
 
         System.out.println(it.call("Hellow"));
+        // adding comment
     }
 }
 
