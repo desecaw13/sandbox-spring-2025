@@ -7,4 +7,7 @@ public class Zookeeper {
         zookeeper.feed(new Lion());
         zookeeper.feed(new Tiger());
     }
+
+    private void feed(Object animal) {
+    }
 }
